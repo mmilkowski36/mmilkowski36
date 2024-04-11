@@ -5,6 +5,11 @@
 
 Here are some ideas to get you started:
 
+👋 Hi, I’m @mmilkowski36
+😄 Appropriate pronouns for me are she/her
+👀 I’m interested in Artificial Intelligence and Human Computer Interaction
+🌱 I’m currently enrolled at Seattle Univeristy getting my BS in Computer Science
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
