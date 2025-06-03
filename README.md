@@ -6,7 +6,7 @@
 
 👀 I’m interested in Artificial Intelligence and Human Computer Interaction
 
-🌱 I’m currently enrolled at Seattle Univeristy getting my BS in Computer Science
+🌱 I have a BS in Computer Science from Seattle University, and am now persuing a PhD at University of Notre Dame.
 
 <!--
 **mmilkowski36/mmilkowski36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
