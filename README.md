@@ -4,7 +4,7 @@
 
 😄 Appropriate pronouns for me are she/her
 
-👀 I’m interested in Artificial Intelligence and Human Computer Interaction
+👀 My research is in Computational Social Science, AI, and HCI
 
 🌱 I have a BS in Computer Science from Seattle University, and am now persuing a PhD at University of Notre Dame.
 
